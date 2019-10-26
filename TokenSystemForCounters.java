@@ -3,7 +3,7 @@ import java.util.*;
 import java.text.*;
 import java.math.*;
 import java.util.regex.*;
-public class P1_test 
+public class  TokenSystemForCounters
 {
 	public static ArrayList<Integer> breaktimes()
 	{
