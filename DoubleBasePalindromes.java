@@ -3,7 +3,7 @@ import java.util.*;
 import java.text.*;
 import java.math.*;
 import java.util.regex.*;
-public class HackTest {
+public class DoubleBasePalindromes {
 	static boolean decToBinary(int n, int k) 
     { 
 		StringBuilder s = new StringBuilder();
